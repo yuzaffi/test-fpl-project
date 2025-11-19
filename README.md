@@ -10,4 +10,4 @@ I created the ML model after a lot of feature creation and manipulation, and hyp
 
 ---
 
-The code above is only the script to run predictions, and not data preprocessing.
+The code included is only the script to run predictions, and not data preprocessing.
